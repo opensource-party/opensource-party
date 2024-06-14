@@ -17,5 +17,7 @@
 </main>
 
 <footer class="p-2 bg-green-800 text-white text-center transition underline decoration-transparent">
-	&copy; 2024 <a href="https://github.com/opensource-party/opensource-party/graphs/contributors">Open Source Party contributors</a>
+	&copy; 2024 <a href="https://github.com/opensource-party/opensource-party/graphs/contributors"
+		>Open Source Party contributors</a
+	>
 </footer>
