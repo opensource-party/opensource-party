@@ -12,6 +12,8 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@fontsource-variable/overpass-mono": "^5.0.18",
+		"@fontsource/poppins": "^5.0.14",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/adapter-cloudflare": "^4.4.0",
 		"@sveltejs/kit": "^2.0.0",

@@ -1,3 +1,14 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@import '@fontsource/poppins';
+@import '@fontsource-variable/overpass-mono';
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+code, .font-mono {
+  font-family: 'Overpass Mono Variable', monospace;
+}
