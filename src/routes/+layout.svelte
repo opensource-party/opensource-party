@@ -16,8 +16,10 @@
 	<slot />
 </main>
 
-<footer class="p-2 bg-green-800 text-white text-center transition underline decoration-transparent">
-	&copy; 2024 <a href="https://github.com/opensource-party/opensource-party/graphs/contributors"
+<footer class="p-2 bg-green-800 text-white text-center">
+	&copy; 2024 <a
+		href="https://github.com/opensource-party/opensource-party/graphs/contributors"
+		class="transition underline decoration-transparent hover:decoration-white"
 		>Open Source Party contributors</a
 	>
 </footer>
