@@ -1,5 +1,7 @@
 <script lang="ts">
+	import ProjectOverview from '$c/ProjectOverview.svelte';
+
 	export let data;
 </script>
 
-<h1>{data.params.project} by {data.params.user}</h1>
+<ProjectOverview username={data.params.user} project={data.params.project} />

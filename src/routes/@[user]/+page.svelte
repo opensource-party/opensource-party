@@ -1,5 +1,7 @@
 <script lang="ts">
+	import UserProfile from '$c/UserProfile.svelte';
+
 	export let data;
 </script>
 
-<h1>{data.params.user}'s Open Source projects</h1>
+<UserProfile username={data.params.user} />
