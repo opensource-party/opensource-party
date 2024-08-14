@@ -1,0 +1,1 @@
+INSERT INTO users (id, name) VALUES (84378319, 'Le0X8');

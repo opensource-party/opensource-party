@@ -1,0 +1,11 @@
+#:schema node_modules/wrangler/config-schema.json
+name = 'opensource-party'
+pages_build_output_dir = '.svelte-kit/cloudflare'
+
+compatibility_date = '2024-05-31'
+compatibility_flags = []
+
+[[d1_databases]]
+binding = 'database'
+database_name = 'opensource-party'
+database_id = 'c2dcde92-0d6f-4902-96ba-c899dc64ab80'
